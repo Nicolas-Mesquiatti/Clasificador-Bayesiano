@@ -4,7 +4,7 @@ Este proyecto implementa un modelo de aprendizaje automático basado en **Naive 
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desarrollar un sistema automático que:
 
@@ -14,7 +14,7 @@ Desarrollar un sistema automático que:
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 - `bayesianno.py`: Código principal que entrena el modelo, evalúa su precisión y clasifica nuevas noticias.
 - `informebayesiano.pdf`: Informe generado automáticamente con los resultados del modelo.
@@ -22,7 +22,7 @@ Desarrollar un sistema automático que:
 
 ---
 
-## 🧪 Datos de entrenamiento
+##  Datos de entrenamiento
 
 El conjunto de datos incluye ejemplos como:
 
@@ -36,7 +36,7 @@ El conjunto de datos incluye ejemplos como:
 
 ---
 
-## 📊 Resultados del modelo
+##  Resultados del modelo
 Precisión sobre conjunto de prueba: 1.00
 
 Matriz de confusión:
@@ -48,7 +48,7 @@ Clasificación de nuevas noticias:
 “Expertos afirman que los gatos pueden hablar con humanos” → fake
 
 
-## 🧠 Limitaciones
+##  Limitaciones
 El conjunto de datos es pequeño y puede inducir sobreajuste.
 
 Algunas noticias reales pueden ser clasificadas como falsas si contienen vocabulario sensacionalista.
